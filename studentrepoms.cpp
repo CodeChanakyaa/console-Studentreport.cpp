@@ -360,8 +360,8 @@ void intro()
 	cout<<"\n\t|-------------------------------------------|";
 	cout<<"\n\t|MADE BY : SHIVAM RATHOUR                   |";
 	cout<<"\n\t|COLLEGE : REWA ENGINEERING COLLEGE(M.P.)   |";
-    cout<<"\n\t|UNDER GUIDENCE OF: PRF. AKHILESH SHUKLA SIR|";
-    cout<<"\n\t|-------------------------------------------|";
+        cout<<"\n\t|UNDER GUIDENCE OF: PRF. AKHILESH SHUKLA SIR|";
+        cout<<"\n\t|-------------------------------------------|";
 	cin.get();
 }
 
